@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @mariandotg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-mariandotg/mariandotg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there. I'm Mariano Guillaume 👋
+
+BIO
+- :atom: I'm a Fullstack developer.
+- :gear: I use daily: ```React.js```, ```Typescript```, ```Next.js```, ```Tailwind.css```, ```Node.js```, ```Express.js```, ```Mongodb```, ```styled-components```, ```Redux```, ```Jest```
+- :test_tube: I'm currently learning ```Java``` with ```Spring```
+- :paintbrush: I also use ```Adobe Photoshop```, ```Adobe Illustrator```, and ```Figma```
+- :office: I'm currently looking for a full time job as a developer.
+- :earth_africa: I'm mostly active within the React and Next.js Community
+- :speech_balloon: Ping me about design, cinema, or development
+- :mailbox: Reach me: twitter.com/mariandotg
+- :pizza: When I'm not writting Code or designing a UI, I'm cooking pizza :)
